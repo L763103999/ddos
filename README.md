@@ -27,6 +27,7 @@ apt install screen
 步骤 1: 修改 API Token
 下载 py 脚本。
 修改脚本中的机器人 API Token。
+
 步骤 2: 新建 Screen 窗口
 在后台运行脚本时，使用 screen 新建一个窗口：
 screen -m
